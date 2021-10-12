@@ -1,9 +1,8 @@
-# RoadLane_InstanceSegmentation
 # Implemented Architecture
 <img src="https://github.com/taravatp/roadLane_InstanceSegmentation/blob/main/pics/architecture.png" width="1000" height="500">
 
 # Sample Outputs
-outputs before adding self-attention distillation:
-<img src="" width="1000" height="500">
-outputs after adding self-attention distillation:
-<img src="" width="1000" height="500">
+sample outputs before adding self-attention distillation:
+<img src="https://github.com/taravatp/roadLane_InstanceSegmentation/blob/main/pics/before.png" width="1000" height="500">
+sample outputs after adding self-attention distillation:
+<img src="https://github.com/taravatp/roadLane_InstanceSegmentation/blob/main/pics/after_SAD.png" width="1000" height="500">
